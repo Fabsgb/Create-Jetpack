@@ -1,0 +1,16 @@
+{
+  "jars": [
+    {
+      "identifier": {
+        "group": "com.possible-triangle",
+        "artifact": "flightlib-forge"
+      },
+      "version": {
+        "range": "[2.1.0,)",
+        "artifactVersion": "2.1.0"
+      },
+      "path": "META-INF/jarjar/flightlib-forge-2.1.0.jar",
+      "isObfuscated": false
+    }
+  ]
+}

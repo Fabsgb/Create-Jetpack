@@ -1,0 +1,33 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "https://github.com/pssbletrngle/createjetpack/blob/1.19.x/LICENSE.txt"
+issueTrackerURL = "https://github.com/pssbletrngle/createjetpack/issues"
+
+[[mods]]
+modId = "create_jetpack"
+version = "4.3.2"
+displayName = "Create Jetpack"
+authors = "possible_triangle"
+description = '''Upgrade your backtank and utilize the pressurized air to fly'''
+updateJSONURL="https://api.modrinth.com/updates/create-jetpack/forge_updates.json"
+
+[[dependencies.create_jetpack]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.create_jetpack]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.create_jetpack]]
+modId = "create"
+mandatory = true
+versionRange = "[0.5.1.e,)"
+ordering = "NONE"
+side = "BOTH"

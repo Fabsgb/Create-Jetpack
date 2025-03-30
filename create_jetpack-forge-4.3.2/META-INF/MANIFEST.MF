@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: Create Jetpack
+Specification-Vendor: possible_triangle
+Specification-Version: 4.3.2
+Implementation-Title: Create Jetpack
+Implementation-Version: 4.3.2
+Implementation-Vendor: possible_triangle
+Implementation-Timestamp: 2024-09-20T10:34:02.888873914
+
